@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9629D0501A803E1800390C13 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9629D04F1A803E1800390C13 /* main.cpp */; };
+		9629D0501A803E1800390C13 /* nwilliams_week1lab.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9629D04F1A803E1800390C13 /* nwilliams_week1lab.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		9629D04C1A803E1800390C13 /* nwilliams_week1lab */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = nwilliams_week1lab; sourceTree = BUILT_PRODUCTS_DIR; };
-		9629D04F1A803E1800390C13 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9629D04F1A803E1800390C13 /* nwilliams_week1lab.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = nwilliams_week1lab.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		9629D04E1A803E1800390C13 /* nwilliams_week1lab */ = {
 			isa = PBXGroup;
 			children = (
-				9629D04F1A803E1800390C13 /* main.cpp */,
+				9629D04F1A803E1800390C13 /* nwilliams_week1lab.cpp */,
 			);
 			path = nwilliams_week1lab;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9629D0501A803E1800390C13 /* main.cpp in Sources */,
+				9629D0501A803E1800390C13 /* nwilliams_week1lab.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +232,7 @@
 				9629D0551A803E1800390C13 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
